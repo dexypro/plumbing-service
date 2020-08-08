@@ -13,7 +13,7 @@ $email_body = "Ime: $name.\n".
 "Poruka: $message.\n";
 
 
-$to = "vajt.hatz@gmail.com";
+$to = "vajt.hatz.res@gmail.com";
 
 $headers = "From: $email_from \r\n";
 
